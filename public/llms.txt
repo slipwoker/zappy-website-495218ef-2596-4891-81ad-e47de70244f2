@@ -1,0 +1,64 @@
+# ערב מגשים אצל דניאל — Generative Engine Optimization Map
+
+> A vibrant and colorful private event invitation for a 'maga'shim' (tray/platter) evening hosted by Daniel, running from 20:00 to midnight. Each invited guest or pair is assigned a unique color, creating a rainbow-themed gathering with a fun, festive, and personalized atmosphere. The event features 9 color assignments spanning the full spectrum, giving the invitation a joyful, celebratory, and visually rich identity.
+
+---
+
+## Pages
+
+### בית
+https://-495218ef.zappy5.app
+גלו ערב מגשים פרטי וחגיגי אצל דניאל, עם אווירה קסומה מהשעה 20:00 ועד חצות. כל אורח מקבל צבע ייחודי משלו ליצירת חוויה אישית וסוחפת. היכנסו עכשיו לפרטים המלאים!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-495218ef.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-495218ef.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-495218ef.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-495218ef.zappy5.app
+- Endpoint: https://-495218ef.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ערב מגשים אצל דניאל
+A vibrant and colorful private event invitation for a 'maga'shim' (tray/platter) evening hosted by Daniel, running from 20:00 to midnight. Each invited guest or pair is assigned a unique color, creating a rainbow-themed gathering with a fun, festive, and personalized atmosphere. The event features 9 color assignments spanning the full spectrum, giving the invitation a joyful, celebratory, and visually rich identity.
+
+## Target Audience
+- חברות מוזמנות לערב מגשים
+
+## Industry
+Private Event Invitation
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-495218ef.zappy5.app/sitemap.xml
+- Robots: https://-495218ef.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-495218ef.zappy5.app/llms-full.txt
